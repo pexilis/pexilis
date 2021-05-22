@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **React, Express, MySQL**
 
-- 👨‍💻 All of my projects are available at [seasurfer.to](seasurfer.to)
-
 - 📝 I regularly write articles on [https://dev.to/seasurfer](https://dev.to/seasurfer)
 
 - 💬 Ask me about **Accessibility, Optimization, Security**
